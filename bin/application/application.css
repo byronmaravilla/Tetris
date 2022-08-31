@@ -1,0 +1,8 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#pane{
+    -fx-background-image: url("Tetris.png"), url("Tetris.jpg"); 
+    -fx-background-color: #87B7FF;
+    -fx-background-size: 250 500, 100 450;
+    -fx-background-position: left top, 200 0;
+    -fx-background-repeat: repeat-y, repeat-y;
+}
